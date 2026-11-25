@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hello, I'm Waseem
 
-<!--
-**wsymalshrby900-dotcom/wsymalshrby900-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Software Developer | IT Student
 
-Here are some ideas to get you started:
+Welcome to my GitHub Profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an IT student passionate about software development,
+programming, databases, and networking.
+
+### 🚀 My Skills
+- ☕ Java Programming
+- 🗄️ Database Management
+- 🌐 HTML, CSS, JavaScript
+- 🔌 Computer Networks
+- 💻 Software Development
+
+### 📚 Currently Learning
+- Advanced Java
+- Database Systems
+- Web Development
+- Networking
+
+### 🎯 My Goals
+- Build professional software projects.
+- Improve my programming skills.
+- Become a professional Software Engineer.
+
+### 📫 Connect With Me
+- GitHub: @wsymalshrby900-dotcom
+
+---
+⭐ Thanks for visiting my profile!
